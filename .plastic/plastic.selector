@@ -1,0 +1,4 @@
+repository "gyro_FieldOfView@gyroscoping_games@cloud"
+  path "/"
+    br "/main"
+    co "/main"
